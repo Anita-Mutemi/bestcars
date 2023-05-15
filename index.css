@@ -1,14 +1,23 @@
-header {
+#header {
     display: flex;
-    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+}
+.logo {
+    margin-left: auto;
 }
 
 nav ul{
-    list-style-type: none;
-    padding: o;
-    margin: 0;
+    display: flex;
+    justify-content: center;
+    clear: both;
 }
 
-nav ul li {
-    margin-bottom: 10px;
+.introtext{
+    margin-left: 0%;
+    padding: 30px;
+}
+.renta{
+    
 }
