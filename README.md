@@ -2,7 +2,7 @@
 
 Anita Mutemi
 
-# Project name
+## Project name
 
 Rocarstor- Car Website
 
@@ -21,10 +21,9 @@ To set up the Rocarstor car website, follow these steps:
 5. Push your commands and run the HTML and CSS files in a valid browser to view your website.
 
 ## Design
+![](Landing-page.png)
 
-![Portfolio Design] (<img width="1440" alt="Landing-page" src="https://github.com Anita-Mutemi/bestcars/assets/132679576 70795403-ae82-4a9d-a88d-f9f161f8c8bc">)
-
-The design for the portfolio website can be found in the attached image. ()
+The design for the portfolio website can be found in the attached image.
 
 ## Technologies Used
 
