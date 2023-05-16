@@ -107,8 +107,7 @@ li button{
     height: 450px;
     border-radius: 5px;
   }
-/* insterting tool to help view in all devices e.g 
-mobile phones or tablets */
+
 @media screen and (max-width: 500px) {
     .column-cars {
       width: 100%;
