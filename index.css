@@ -120,7 +120,7 @@ li button{
     width: 100%;
     height: 280px;
 
-    background-color: wheat;
+    background-color: papayawhip;
 }
 .more-info {
     background-color: rgb(202, 69, 7);
@@ -130,11 +130,11 @@ li button{
     border: none;
 }
 
-.happy-clients {
+.clientfeedback {
     margin-left: 80px;
 }
 
-.column-clients {
+.column-client {
     float: left;
     width: 30%;
     padding: 10px;
